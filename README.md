@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Roman Golev
+# Hi there! 👋 I'm Roman 
 
 Welcome to my GitHub profile!
 
