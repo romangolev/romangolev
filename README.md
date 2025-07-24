@@ -1,21 +1,20 @@
-# Hi there! 👋 I'm Roman 
+# Hi there! 👋 I'm a Software Engineer and Fullstack Developer  
 
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🔹 Building robust applications in **C#**, **Python**, and **JavaScript**
+- 🔹 Building robust applications using **C#**, **Python**, and **TypeScript**
 - 🔹 Enthusiastic about **clean code** and **efficient solutions**
-- 🔹 Currently learning **C**
+- 🔹 Inerested in web development
 
 ## ⚙️ Frameworks and Tech Stack I Use
 - **Frontend:** WPF(.NET Framework), React, Astro
-- **Backend:** FastAPI, Flask, ASP.NET, express.js  
+- **Backend:** FastAPI, Flask, ASP.NET, express
 - **Other Tools:** WebView, Docker, Git  
 
 ## 🌍 Challenge Me on Any of These Platforms! 
 - 🏅 [Sololearn](https://www.sololearn.com/profile/18852736)  
 - 🏆 [Codewars](https://www.codewars.com/users/romangolev)  
-<!-- - 🏫 [42 School](https://profile.intra.42.fr/users/rgolev)  -->
 
 ## 🔨 Active Projects
 - 🚀 **pyArchitect** – A Python-based architectural automation tool  
