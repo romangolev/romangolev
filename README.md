@@ -5,12 +5,12 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🔹 Building robust applications using **C#**, **Python**, and **TypeScript**
 - 🔹 Enthusiastic about **clean code** and **efficient solutions**
-- 🔹 Inerested in web development
+- 🔹 Interested in web development
 
 ## ⚙️ Frameworks and Tech Stack I Use
 - **Frontend:** WPF(.NET Framework), React, Astro
-- **Backend:** FastAPI, Flask, ASP.NET, express
-- **Other Tools:** WebView, Docker, Git  
+- **Backend:** FastAPI, Flask, ASP.NET, Nest.js
+- **Other Tools:** WebView, Docker, Nuke, k8s, Helm
 
 ## 🌍 Challenge Me on Any of These Platforms! 
 - 🏅 [Sololearn](https://www.sololearn.com/profile/18852736)  
