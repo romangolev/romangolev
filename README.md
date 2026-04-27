@@ -46,3 +46,5 @@ I'm a **Software Engineer** and **FullStack Developer** with a strong focus on d
 ---
 
 🚀 Always learning, always building — let's create something great together!
+
+If you find my work useful, [buy me a coffee](https://buymeacoffee.com/romangolev) ☕
