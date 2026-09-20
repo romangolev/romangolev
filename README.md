@@ -1,50 +1,25 @@
-# Hi there! 👋 I'm Roman — Software Engineer & FullStack Developer
+# Hi, I'm Roman — Software Engineer
 
-Welcome to my GitHub profile! I build modern, production-ready software and love turning complex problems into clean, scalable solutions.
+A Software Engineer with a 5+ years experience designing, developing and maintaining scalable, effective and secure solutions across FinTech, AEC and Learning/Education domains. I am proactive specialist with an end-to-end ownership mindset have a proactive approach. Actual builder of ideas, being enthusiastic about seeing the product actually strive. Open-Source geek and a road bike rider.
 
-## 🚀 About Me
+## Focus
 
-I'm a **Software Engineer** and **FullStack Developer** with a strong focus on delivering high-quality, maintainable code across the full stack — from polished frontends to robust backends and cloud-native infrastructure.
+- Product engineering: React, Node.js/NestJS, REST APIs, and PostgreSQL
+- Desktop and AEC software: .NET, WPF, WebView2, Revit API, and Navisworks API
+- Delivery and quality: Docker, CI/CD, GitHub Actions, automated testing, and code review
+- Open source: contributions to developer tools and AEC automation projects
 
-- 💡 Passionate about **modern software architecture**, **clean code**, and **developer experience**
-- 🌐 Building web applications and automation tools used in real-world production environments
-- 🤝 Open to **remote collaborations** and **international projects**
-- 🔁 Believer in continuous improvement and AI-augmented development workflows
+## Technology
 
-## ⚙️ Tech Stack
+`C#` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `React` · `Node.js` · `NestJS` · `.NET` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
-**Languages:**
-`C#` · `Python` · `TypeScript` · `JavaScript`
+## Open Source
 
-**Frontend:**
-`React` · `Astro` · `WPF (.NET Framework)` · `WebView`
+- [pyRevit](https://github.com/pyRevitLabs/pyRevit) — open-source contributions to Revit tooling
+- [pyArchitect](https://github.com/romangolev/pyArchitect) — Python and pyRevit automation tools
+- [Revit Add-in Template](https://github.com/romangolev/RevitAddinTemplate.Multiversion) — multi-version Revit add-in template
 
-**Backend:**
-`ASP.NET` · `FastAPI` · `Flask` · `NestJS`
+## Links
 
-**Infrastructure & DevOps:**
-`Docker` · `Kubernetes (k8s)` · `Helm` · `Nuke`
-
-**AI Tools I Work With Daily:**
-`GitHub Copilot` · `Claude (Anthropic)` · `Cursor` · `OpenCode` · `Ollama`
-
-> I actively integrate AI coding assistants into my workflow to ship faster, write better code, and stay on the cutting edge of modern software development.
-
-## 🎯 Open Source & Hobbies
-
-- 🔧 **[pyRevit](https://github.com/pyRevitLabs/pyRevit)** — A passionate contributor and user of pyRevit, a fantastic open-source Python scripting framework for Autodesk Revit. Bridging the gap between AEC and software engineering is something I genuinely enjoy.
-- 🚀 **pyArchitect** — A Python-based architectural automation tool I'm building
-- 🏗️ **Revit MultiversionTemplate** — A customizable multi-version Revit project template
-
-## 🌍 Challenge Me on Any of These Platforms!
-- 🏅 [Sololearn](https://www.sololearn.com/profile/18852736)
-- 🏆 [Codewars](https://www.codewars.com/users/romangolev)
-
-## 📫 Let's Connect
-- 💻 [My Website](https://www.romangolev.com)
-
----
-
-🚀 Always learning, always building — let's create something great together!
-
-⚡ power me up with a [batch brew](https://buymeacoffee.com/romangolev)
+- [Portfolio](https://www.romangolev.com)
+- [LinkedIn](https://www.linkedin.com/in/romangolev/)
