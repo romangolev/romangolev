@@ -1,6 +1,6 @@
 # Hi, I'm Roman — Software Engineer
 
-A Software Engineer with a 5+ years experience designing, developing and maintaining scalable, effective and secure solutions across FinTech, AEC and Learning/Education domains. I am proactive specialist with an end-to-end ownership mindset have a proactive approach. Actual builder of ideas, being enthusiastic about seeing the product actually strive. Open-Source geek and a road bike rider.
+A Software Engineer with a 5+ years experience designing, developing and maintaining scalable, effective and secure solutions across FinTech, AEC and Learning/Education domains. I am proactive specialist with an end-to-end ownership mindset. Actual builder of ideas, being enthusiastic about seeing the product actually strive. Open-Source geek and a road bike rider.
 
 ## Focus
 
